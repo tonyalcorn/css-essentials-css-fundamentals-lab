@@ -1,3 +1,15 @@
+h1 {
+  text-align: center;
+}
+
+image {
+  image-align: center;
+}
+a {
+  padding: 10px;
+  backgound_color: grey;
+}
+
 body {
   width: 100%;
   height: 100%;
